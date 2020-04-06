@@ -1,14 +1,18 @@
 # Recipe Page
 
-This project is from [Techtonica](https://techtonica.org/)'s open source curriculum. The instructions can be found [here](https://github.com/Techtonica/curriculum/tree/master/projects/recipe-page). We use HTML, CSS, and Bootstrap to create a website.
+This project is from [Techtonica](https://techtonica.org/)'s open source curriculum. The instructions can be found [here](https://github.com/Techtonica/curriculum/tree/master/projects/recipe-page). We used HTML, CSS, and Bootstrap to create a website.
+
+![recipe-page-screenshot](/recipe-page-screenshot.png)
 
 ### Overview
 
-Phase 1 of the project involves coding the structure of your webpage using HTML. This includes the ingredients, the steps needed to make the dish, links to similar recipes, and at least one photo.
+Phase 1 of the project involves coding the structure of your webpage using HTML (ie. ingredients, the steps needed to make the dish, links to similar recipes, photo)
 
-Phase 2 of the project involves adding styling and pizazz using CSS. This includes changing the font style, font size, colors, and other qualities that interest you.
+Phase 2 of the project involves adding styling using CSS
 
-Phase 3 of the project involves incorporating Bootstrap. You'll add a navigation bar and several other Bootstrap components of your choosing.
+Phase 3 of the project involves incorporating Bootstrap
+
+
 
 ### Getting Started
 
@@ -23,6 +27,6 @@ Then open the HTML in a browser. Alternatively, the site can be viewed [here](ht
 
 ### Built With
 
-HTML
+- HTML
 
-CSS
+- CSS
