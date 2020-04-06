@@ -1,6 +1,6 @@
 # Recipe Page
 
-This project is from [Techtonica](https://techtonica.org/)'s open source curriculum. The instructions can be found [here](https://github.com/Techtonica/curriculum/tree/master/projects/recipe-page). We used HTML, CSS, and Bootstrap to create a website.
+Static recipe page using HTML, CSS, and Bootstrap.
 
 ![recipe-page-screenshot](/recipe-page-screenshot.png)
 
@@ -12,7 +12,7 @@ Phase 2 of the project involves adding styling using CSS
 
 Phase 3 of the project involves incorporating Bootstrap
 
-
+See additional information on [Techtonica's curriculum page](https://github.com/Techtonica/curriculum/tree/master/projects/recipe-page).
 
 ### Getting Started
 
